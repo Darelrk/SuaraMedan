@@ -1,0 +1,15 @@
+*.apk
+*.aab
+*.ipa
+*.mp4
+*.mov
+*.webm
+.env
+.env.*
+client[_-]secret*.json
+google-services.json
+build/
+.dart_tool/
+demo_web/
+node_modules/
+*.log
