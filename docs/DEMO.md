@@ -8,7 +8,7 @@ https://github.com/Darelrk/SuaraMedan/releases/tag/demo-apk-2026-05-04
 
 ## Install Android
 
-1. Download file `app-debug.apk`.
+1. Download file `SuaraMedan-Demo-Android-2026-05-04.apk`.
 2. Buka file di perangkat Android.
 3. Izinkan install dari sumber eksternal jika diminta.
 4. Buka aplikasi SuaraMedan.
@@ -19,4 +19,3 @@ https://github.com/Darelrk/SuaraMedan/releases/tag/demo-apk-2026-05-04
 - APK ini adalah demo build.
 - Source code tidak dipublikasikan di repo ini.
 - Jika login Google belum tersedia di perangkat tertentu, gunakan flow login yang tersedia di aplikasi demo.
-
